@@ -15,3 +15,6 @@ Estado: Finalizado ✔️
 
 ## Dependências: 
 + http: ^0.13.4
+
+## Uso e resultado final:
+![Animação](https://user-images.githubusercontent.com/95777456/189498953-f898a65c-0a70-4e5a-979d-52d0f0e2601f.gif)
