@@ -1,7 +1,5 @@
 # Flutter-Conversor-de-Moedas
 
-Estado: Finalizado ✔️
-
 ### Aplicativo flutter que faz a conversão entre as cotações de diferentes moedas, possuindo seus valores atuais utilizando uma API.
 
 #### Funcionalidades: 
